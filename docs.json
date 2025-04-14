@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "",
+  "theme": "willow",
   "name": "Unioun Documentation",
   "colors": {
     "primary": "#16A34A",
